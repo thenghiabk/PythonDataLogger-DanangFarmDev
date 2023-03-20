@@ -1,0 +1,15 @@
+Farm Name,Collect Date,Collect Time,House Name,House Number,Flock Number,Alarm,Growth Day,Time,Temperature Curve On/Off,House Mode,Vent Mode,Set Temperature,Target Pressure,Cycle,Average Temperature,Static Pressure,Temperature Sensor 1,Temperature Sensor 2,Temperature Sensor 3,Temperature Sensor 4,Daily Water,Heaters,Tunnel Fans,Cooling Pad,Air Vent 1 Position (%),Tunnel Curtain 1 Position (%),Light 2,Light 3,Feeding,Auger
+Danang Farm,3/9/2023,10:00:26 PM,7,7,9,OFF,56,20:31,ON,Full,Tunnel,67.4,0.040,OFF,73.8,0.044,(70.8),72.0,73.8,75.5,1573,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:01:28 PM,7,7,9,OFF,56,20:32,ON,Full,Tunnel,67.4,0.040,OFF,73.7,0.041,(70.8),71.8,73.9,75.5,1574,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:02:30 PM,7,7,9,OFF,56,20:33,ON,Full,Tunnel,67.4,0.040,OFF,73.8,0.043,(70.8),72.2,73.7,75.5,1576,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:03:33 PM,7,7,9,OFF,56,20:34,ON,Full,Tunnel,67.4,0.040,OFF,73.7,0.045,(70.8),72.0,73.7,75.5,1577,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:04:35 PM,7,7,9,OFF,56,20:35,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.043,(71.1),71.8,73.6,75.5,1578,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:05:37 PM,7,7,9,OFF,56,20:36,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.043,(70.9),71.8,73.6,75.3,1579,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:06:40 PM,7,7,9,OFF,56,20:37,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.041,(71.3),71.9,73.7,75.3,1580,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:07:42 PM,7,7,9,OFF,56,20:39,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.038,(71.6),71.8,73.7,75.3,1581,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:08:45 PM,7,7,9,OFF,56,20:40,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.045,(71.7),71.9,73.7,75.3,1582,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:09:47 PM,7,7,9,OFF,56,20:41,ON,Full,Tunnel,67.4,0.040,OFF,73.6,0.047,(71.8),71.8,73.7,75.3,1583,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:10:49 PM,7,7,9,OFF,56,20:42,ON,Full,Tunnel,67.4,0.040,OFF,73.7,0.043,(72.4),71.8,73.8,75.3,1584,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:11:51 PM,7,7,9,OFF,56,20:43,ON,Full,Tunnel,67.4,0.040,OFF,73.7,0.041,(72.5),72.0,73.8,75.3,1585,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:12:53 PM,7,7,9,OFF,56,20:44,ON,Full,Tunnel,67.4,0.040,OFF,73.8,0.040,(72.2),72.2,73.9,75.3,1586,OFF,4,OFF,0,100,ON  10%,OFF,2,2
+Danang Farm,3/9/2023,10:13:56 PM,7,7,9,OFF,56,20:45,ON,Full,Tunnel,67.4,0.040,OFF,73.8,0.038,(72.0),72.2,73.9,75.5,1587,OFF,4,OFF,0,100,ON  10%,OFF,2,2
